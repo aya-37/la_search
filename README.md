@@ -106,3 +106,7 @@ Google Cloud Platform
 
 ### 画面遷移図
 https://www.figma.com/file/tIE28BALvxikMLvwDPLKCm/Untitled?type=design&node-id=0%3A1&mode=design&t=t5w0OwiM2lVPGqRA-1
+
+### ER図
+
+https://app.diagrams.net/#Llasearch.drawio
