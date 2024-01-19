@@ -110,3 +110,5 @@ https://www.figma.com/file/tIE28BALvxikMLvwDPLKCm/Untitled?type=design&node-id=0
 ### ER図
 
 https://app.diagrams.net/#Llasearch.drawio
+
+[![Image from Gyazo](https://i.gyazo.com/803a69dfdb1d512d626f2a3781b0849d.png)](https://gyazo.com/803a69dfdb1d512d626f2a3781b0849d)
